@@ -1,5 +1,7 @@
 # 🔢 Handwritten Digit Recognizer
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://harshgupta72-handwritten-digit-letter-recognizer-app-qynzie.streamlit.app/)
+
 A Convolutional Neural Network (CNN) based system for recognizing handwritten digits from images. This project implements a deep learning model trained on the MNIST dataset, achieving high accuracy in digit classification (0-9).
 
 ## 📋 Table of Contents
